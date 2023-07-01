@@ -1,4 +1,3 @@
-
 #### 👩🏻‍💻 Tech Stack
 <div align='left'>
   
@@ -7,7 +6,7 @@
 <img src="https://img.shields.io/badge/Objective C-1F1F1F?style=flat-square&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>  
 
-##### Cross Platform Desktop App
+##### Cross Platform App
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
